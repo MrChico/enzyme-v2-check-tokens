@@ -1,0 +1,137 @@
+"Name","Symbol","Decimals","Mainnet Address","Asset Type","Derivative Type","Uniswap Pair","Chainlink Description","Chainlink Proxy","Chainlink Aggregator (for Testnet)"
+"Aave","AAVE",18,"0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9","Primitive",,,"AAVE / ETH","0x6Df09E975c830ECae5bd4eD9d90f3A95a4f88012","0x42F3b59f72772EB5794B04D2d85aFAC0D30A5683"
+"AdEx","ADX",18,"0xade00c28244d5ce17d72e40330b1c318cd12b7c3","Primitive",,,"ADX / USD","0x231e764B44b2C1b7Ca171fa8021A24ed520Cde10","0xade00c28244d5ce17d72e40330b1c318cd12b7c3"
+"Aragon Network Token","ANT",18,"0xa117000000f279d81a1d3cc75430faa017fa5a2e","Primitive",,,"ANT / ETH","0x8f83670260f8f7708143b836a2a6f11ef0abac01","0x9268d7b714af3f4e6f347ec347fd25d97dabc929"
+"Balancer","BAL",18,"0xba100000625a3754423978a60c9317c58a424e3d","Primitive",,,"BAL / ETH","0xc1438aa3823a6ba0c159cfa8d98df5a994ba120b","0x2f6bfbbb5d9cd374574aa552dc6942c01d330c75"
+"Basic Attention Token","BAT",18,"0x0d8775f648430679a709e98d2b0cb6250d2887ef","Primitive",,,"BAT / ETH","0x0d16d4528239e9ee52fa531af613acdb23d88c94","0x3146392934da3ae09447cd7fe4061d8aa96b50ae"
+"BNB","BNB",18,"0xb8c77482e45f1f44de1745f52c74426c631bdd52","Primitive",,,"BNB / USD","0x14e613ac84a31f709eadbdf89c6cc390fdc9540a","0x90888cddad598570c6edc443eee9aadb63cda3c4"
+"Bancor Network Token","BNT",18,"0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c","Primitive",,,"BNT / ETH","0xcf61d1841b178fe82c8895fe60c2edda08314416","0x0a3ec7050884f00b5d9b11131de59dced0fafedb"
+"Binance USD","BUSD",18,"0x4fabb145d64652a948d72533023f6e7a623c7c53","Primitive",,,"BUSD / ETH","0x614715d2af89e6ec99a233818275142ce88d1cfd","0x661be809784e094ea70f980939cf3f09337a3178"
+"bZx Protocol Token","BZRX",18,"0x56d811088235f11c8920698a204a5010a788f4b3","Primitive",,,"BZRX / ETH","0x8f7c7181ed1a2ba41cfc3f5d064ef91b67daef66","0xb58b218365cd12ad765ba8a9f88e881d2b2a01c2"
+"Compound Basic Attention Token","cBAT",8,"0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e","Derivative","Compound",,,,
+"Compound Collateral","cCOMP",8,"0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4","Derivative","Compound",,,,
+"Compound DAI","cDAI",8,"0x5d3a536e4d6dbd6114cc1ead35777bab948e3643","Derivative","Compound",,,,
+"Compound Ether","cETH",8,"0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5","Derivative","Compound",,,,
+"Chai","CHAI",18,"0x06af07097c9eeb7fd685c692751d5c66db49c215","Derivative","Chai",,,,
+"Compound","COMP",18,"0xc00e94cb662c3520282e6f5717214004a7f26888","Primitive",,,"COMP / ETH","0x1b39ee86ec5979ba5c322b826b3ecb8c79991699","0x84e42cf61a1e87f1dd2b11da9a2831c8745371d9"
+"Crypto.com Coin","CRO",8,"0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b","Primitive",,,"CRO / ETH","0xcA696a9Eb93b81ADFE6435759A29aB4cf2991A96","0xd79c42be9f47f54a37a835ad2bea06f0e847cc91"
+"Curve DAO Token","CRV",18,"0xd533a949740bb3306d119cc777fa900ba034cd52","Primitive",,,"CRV / ETH","0x8a12be339b0cd1829b91adc01977caa5e9ac121e","0xabb243ac767d0b7fcaa0bd5e19a7ba0d339d0b33"
+"Compound Uniswap","cUNI",8,"0x35a18000230da775cac24873d00ff85bccded550","Derivative","Compound",,,,
+"Compound USDC Coin","cUSDC",8,"0x39aa39c021dfbae8fac545936693ac917d5e7563","Derivative","Compound",,,,
+"Compound USDT","cUSDT",8,"0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9","Derivative","Compound",,,,
+"Compound Wrapped BTC","cWBTC",8,"0xc11b1268c1a384e55c48c2391d8d480264a3a7f4","Derivative","Compound",,,,
+"Compound 0x","cZRX",8,"0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407","Derivative","Compound",,,,
+"DAI Stablecoin","DAI",18,"0x6b175474e89094c44da98b954eedeac495271d0f","Primitive",,,"DAI / ETH","0x773616e4d11a78f511299002da57a0a94577f1f4","0xd866a07dea5ee3c093e21d33660b5579c21f140b"
+"DMM: Governance","DMG",18,"0xEd91879919B71bB6905f23af0A68d231EcF87b14","Primitive",,,"DMG / ETH","0xD010e899f7ab723AC93f825cDC5Aa057669557c2","0xe9066571029b6fdaf5384853c384c7b01bf39641"
+"Enjin Coin","ENJ",18,"0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c","Primitive",,,"ENJ / ETH","0x24d9ab51950f3d62e9144fdc2f3135daa6ce8d1b","0x20aff4833e5d261bb34bc3980d88ad17a3fe90dc"
+"Synth iADA","iADA",18,"0x8a8079c7149b8a1611e5c5d978dca3be16545f83","Derivative","Synthetix",,,,
+"Synth iBCH","iBCH",18,"0xf6e9b246319ea30e8c2fa2d1540aaebf6f9e1b89","Derivative","Synthetix",,,,
+"Synth iBNB","iBNB",18,"0xafd870f32ce54efdbf677466b612bf8ad164454b","Derivative","Synthetix",,,,
+"Synth iBTC","iBTC",18,"0xd6014ea05bde904448b743833ddf07c3c7837481","Derivative","Synthetix",,,,
+"Synth iCEX","iCEX",18,"0x336213e1ddfc69f4701fc3f86f4ef4a160c1159d","Derivative","Synthetix",,,,
+"Synth iDASH","iDASH",18,"0xcb98f42221b2c251a4e74a1609722ee09f0cc08e","Derivative","Synthetix",,,,
+"Synth iDEFI","iDEFI",18,"0x14d10003807ac60d07bb0ba82caeac8d2087c157","Derivative","Synthetix",,,,
+"Synth iEOS","iEOS",18,"0xf4eebdd0704021ef2a6bbe993fdf93030cd784b4","Derivative","Synthetix",,,,
+"Synth iETC","iETC",18,"0xd50c1746d835d2770dda3703b69187bffeb14126","Derivative","Synthetix",,,,
+"Synth iETH","iETH",18,"0xa9859874e1743a32409f75bb11549892138bba1e","Derivative","Synthetix",,,,
+"Synth iLINK","iLINK",18,"0x2d7ac061fc3db53c39fe1607fb8cec1b2c162b01","Derivative","Synthetix",,,,
+"Synth iLTC","iLTC",18,"0x79da1431150c9b82d2e5dfc1c68b33216846851e","Derivative","Synthetix",,,,
+"Synth iOIL","iOIL",18,"0xa5a5df41883cdc00c4ccc6e8097130535399d9a3","Derivative","Synthetix",,,,
+"Synth iTRX","iTRX",18,"0xc5807183a9661a533cb08cbc297594a0b864dc12","Derivative","Synthetix",,,,
+"Synth iXMR","iXMR",18,"0x4adf728e2df4945082cdd6053869f51278fae196","Derivative","Synthetix",,,,
+"Synth iXRP","iXRP",18,"0x27269b3e45a4d3e79a3d6bfee0c8fb13d0d711a6","Derivative","Synthetix",,,,
+"Synth iXTZ","iXTZ",18,"0x8deef89058090ac5655a99eeb451a4f9183d1678","Derivative","Synthetix",,,,
+"Kyber Network Crystal","KNC",18,"0xdd974d5c2e2928dea5f71b9825b8b646686bd200","Primitive",,,"KNC / ETH","0x656c0544ef4c98a6a98491833a89204abb045d6b","0x075fe11b3dd9c605f7fd09ff9310e3e37baabc9e"
+"ChainLink Token","LINK",18,"0x514910771af9ca656af840dff83e8264ecf986ca","Primitive",,,"LINK / ETH","0xdc530d9457755926550b59e8eccdae7624181557","0x7e6c635d6a53b5033d1b0cee84eccea9096859e4"
+"Loopring","LRC",18,"0xbbbbca6a901c926f240b89eacb641d8aec7aeafd","Primitive",,,"LRC / ETH","0x160AC928A16C93eD4895C2De6f81ECcE9a7eB7b4","0x174b0b72ca036b0b64f190ed83630751195d3362"
+"Decentraland MANA","MANA",18,"0x0f5d2fb29fb7d3cfee444a200298f468908cc942","Primitive",,,"MANA / ETH","0x82a44d92d6c329826dc557c5e1be6ebec5d5feb9","0x3162c2de0c254b97d869a070929b518b5b9b56b3"
+"Maker","MKR",18,"0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2","Primitive",,,"MKR / ETH","0x24551a8fb2a7211a25a17b1481f043a8a8adc7f2","0x204a6fe11de66aa463879f47f3533dd87d47020d"
+"Melon Token","MLN",18,"0xec67005c4e498ec7f55e092bd1d35cbc47c91892","Primitive",,,"MLN / ETH","0xdaea8386611a157b08829ed4997a8a62b557014c","0x326a719e35ee2a31d9705ba25b05d25a3a1459d9"
+"Numeraire","NMR",18,"0x1776e1f26f98b1a5df9cd347953a26dd3cb46671","Primitive",,,"NMR / ETH","0x9cb2a01a7e64992d32a34db7ceea4c919c391f6a","0x3e78373c09fb75cdb03acb47e3c3608eea91110b"
+"Orchid","OXT",18,"0x4575f41308EC1483f3d399aa9a2826d74Da13Deb","Primitive",,,"OXT / USD","0xd75AAaE4AF0c398ca13e2667Be57AF2ccA8B5de6","0x9bb674bdd5190e27af0d72feb38447c101a3540b"
+"Republic Token","REN",18,"0x408e41876cccdc0f92210600ef50372656052a38","Primitive",,,"REN / ETH","0x3147d7203354dc06d9fd350c7a2437bca92387a4","0x1a53bf1bfffb7a2b33e1931d33423c7c94f675ee"
+"Reputation (Augur)","REPv2",18,"0x221657776846890989a759ba2973e427dff5c9bb","Primitive",,,"REP / ETH","0xd4ce430c3b67b3e2f7026d86e7128588629e2455","0x8e1bb728b37832754a260d99b5467fe6d164c068"
+"iEx.ec Network Token","RLC",9,"0x607f4c5bb672230e8672085532f7e901544a7375","Primitive",,,"RLC / ETH","0x4cba1e1fdc738d0fe8db3ee07728e2bc4da676c6","0x34e9dd5975736a0c6df221d0e76dcf0d412014fa"
+"Synth sADA","sADA",18,"0xe36e2d3c7c34281fa3bc737950a68571736880a1","Derivative","Synthetix",,,,
+"Synth sAUD","sAUD",18,"0xf48e200eaf9906362bb1442fca31e0835773b8b4","Derivative","Synthetix",,,,
+"Synth sBCH","sBCH",18,"0x36a2422a863d5b950882190ff5433e513413343a","Derivative","Synthetix",,,,
+"Synth sBNB","sBNB",18,"0x617aecb6137b5108d1e7d4918e3725c8cebdb848","Derivative","Synthetix",,,,
+"Synth sBTC","sBTC",18,"0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6","Derivative","Synthetix",,,,
+"Synth sCEX","sCEX",18,"0xeabacd844a196d7faf3ce596edebf9900341b420","Derivative","Synthetix",,,,
+"Synth sCHF","sCHF",18,"0x0f83287ff768d1c1e17a42f44d644d7f22e8ee1d","Derivative","Synthetix",,,,
+"Synth sDASH","sDASH",18,"0xfe33ae95a9f0da8a845af33516edc240dcd711d6","Derivative","Synthetix",,,,
+"Synth sDEFI","sDEFI",18,"0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b","Derivative","Synthetix",,,,
+"Synth sEOS","sEOS",18,"0x88c8cf3a212c0369698d13fe98fcb76620389841","Derivative","Synthetix",,,,
+"Synth sETC","sETC",18,"0x22602469d704bffb0936c7a7cfcd18f7aa269375","Derivative","Synthetix",,,,
+"Synth sETH","sETH",18,"0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb","Derivative","Synthetix",,,,
+"Synth sEUR","sEUR",18,"0xd71ecff9342a5ced620049e616c5035f1db98620","Derivative","Synthetix",,,,
+"Synth sFTSE","sFTSE",18,"0x23348160d7f5aca21195df2b70f28fce2b0be9fc","Derivative","Synthetix",,,,
+"Synth sGBP","sGBP",18,"0x97fe22e7341a0cd8db6f6c021a24dc8f4dad855f","Derivative","Synthetix",,,,
+"Synth sJPY","sJPY",18,"0xf6b1c627e95bfc3c1b4c9b825a032ff0fbf3e07d","Derivative","Synthetix",,,,
+"Synth sLINK","sLINK",18,"0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6","Derivative","Synthetix",,,,
+"Synth sLTC","sLTC",18,"0xc14103c2141e842e228fbac594579e798616ce7a","Derivative","Synthetix",,,,
+"Synth sNIKKEI","sNIKKEI",18,"0x757de3ac6b830a931ef178c6634c5c551773155c","Derivative","Synthetix",,,,
+"Synthetix Network Token","SNX",18,"0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f","Primitive",,,"SNX / ETH","0x79291a9d692df95334b1a0b3b4ae6bc606782f8c","0x93d7bbf4cf42bda5bb86eadfad09271040cc10e8"
+"Synth sOIL","sOIL",18,"0x6d16cf3ec5f763d4d99cb0b0b110eefd93b11b56","Derivative","Synthetix",,,,
+"Synth sTRX","sTRX",18,"0xf2e08356588ec5cd9e437552da87c0076b4970b0","Derivative","Synthetix",,,,
+"Synth sUSD","sUSD",18,"0x57ab1ec28d129707052df4df418d58a2d46d5f51","Primitive",,,"SUSD / ETH","0x8e0b7e6062272B5eF4524250bFFF8e5Bd3497757","0x060f728deb96875f992c97414eff2b3ef6c58ec7"
+"Synth sXAG","sXAG",18,"0x6a22e5e94388464181578aa7a6b869e00fe27846","Derivative","Synthetix",,,,
+"Synth sXAU","sXAU",18,"0x261efcdd24cea98652b9700800a13dfbca4103ff","Derivative","Synthetix",,,,
+"Synth sXMR","sXMR",18,"0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a","Derivative","Synthetix",,,,
+"Swipe","SXP",18,"0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9","Primitive",,,"SXP / USD","0xFb0CfD6c19e25DB4a08D8a204a387cEa48Cc138f","0x4a75bfa5b740263e88655a3e1e78892bfc7b036a"
+"Synth sXRP","sXRP",18,"0xa2b0fde6d710e201d0d608e924a484d1a5fed57c","Derivative","Synthetix",,,,
+"Synth sXTZ","sXTZ",18,"0x2e59005c5c0f0a4d77cca82653d48b46322ee5cd","Derivative","Synthetix",,,,
+"TrueUSD","TUSD",18,"0x0000000000085d4780B73119b644AE5ecd22b376","Primitive",,,"TUSD / ETH","0x3886BA987236181D98F2401c507Fb8BeA7871dF2","0x0c632ec5982e3a8dc116a02eba7a419efec170b1"
+"UMA Voting Token v1","UMA",18,"0x04fa0d235c4abf4bcf4787af4cf447de572ef828","Primitive",,,"UMA / ETH","0xf817b69ea583caff291e287cae00ea329d22765c","0xfa0999f1033ab29318578c7750afd07d9d187604"
+"Uniswap","UNI",18,"0x1f9840a85d5af5bf1d1762f925bdaddc4201f984","Primitive",,,"UNI / ETH","0xd6aa3d25116d8da79ea0246c4826eb951872e02e","0x5977d45ba0a1ffc3740506d07f5693bbc45df3c7"
+"Uniswap V2","UNI-V2",18,"0xdfc14d2af169b0d36c4eff567ada9b2e0cae044f","Derivative","UniswapV2Pool","AAVE-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xd3772a963790fede65646cfdae08734a17cd0f47","Derivative","UniswapV2Pool","ADX-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x9def9511fec79f83afcbffe4776b1d817dc775ae","Derivative","UniswapV2Pool","ANT-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xa70d458a4d9bc0e6571565faee18a48da5c0d593","Derivative","UniswapV2Pool","BAL-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xb6909b960dbbe7392d405429eb2b3649752b4838","Derivative","UniswapV2Pool","BAT-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x3fd4cf9303c4bc9e13772618828712c8eac7dd2f","Derivative","UniswapV2Pool","BNT-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x524847c615639e76fe7d0fe0b16be8c4eac9cf3c","Derivative","UniswapV2Pool","BUSD-USDC",,,
+"Uniswap V2","UNI-V2",18,"0xa0abda1f980e03d7eadb78aed8fc1f2dd0fe83dd","Derivative","UniswapV2Pool","BUSD-USDT",,,
+"Uniswap V2","UNI-V2",18,"0xb9b752f7f4a4680eeb327ffe728f46666763a796","Derivative","UniswapV2Pool","BZRX-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xcffdded873554f362ac02f8fb1f02e5ada10516f","Derivative","UniswapV2Pool","COMP-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x90704ac59e7e54632b0cc9d22573aecd7eb094ad","Derivative","UniswapV2Pool","CRO-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x3da1313ae46132a397d90d95b1424a9a7e3e0fce","Derivative","UniswapV2Pool","CRV-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xae461ca67b15dc8dc81ce7615e0320da1a9ab8d5","Derivative","UniswapV2Pool","DAI-USDC",,,
+"Uniswap V2","UNI-V2",18,"0xb20bd5d04be54f870d5c0d3ca85d82b34b836405","Derivative","UniswapV2Pool","DAI-USDT",,,
+"Uniswap V2","UNI-V2",18,"0xa478c2975ab1ea89e8196811f51a7b7ade33eb11","Derivative","UniswapV2Pool","DAI-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x8175362afbeee32afb22d05adc0bbd08de32f5ae","Derivative","UniswapV2Pool","DMG-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xe56c60b5f9f7b5fc70de0eb79c6ee7d00efa2625","Derivative","UniswapV2Pool","ENJ-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xf49c43ae0faf37217bdcb00df478cf793edd6687","Derivative","UniswapV2Pool","KNC-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974","Derivative","UniswapV2Pool","LINK-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x8878df9e1a7c87dcbf6d3999d997f262c05d8c70","Derivative","UniswapV2Pool","LRC-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x11b1f53204d03e5529f09eb3091939e4fd8c9cf3","Derivative","UniswapV2Pool","MANA-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xc2adda861f89bbb333c90c492cb837741916a225","Derivative","UniswapV2Pool","MKR-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x15ab0333985fd1e289adf4fbbe19261454776642","Derivative","UniswapV2Pool","MLN-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xb784ced6994c928170b417bbd052a096c6fb17e2","Derivative","UniswapV2Pool","NMR-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x9b533f1ceaa5ceb7e5b8994ef16499e47a66312d","Derivative","UniswapV2Pool","OXT-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x8bd1661da98ebdd3bd080f0be4e6d9be8ce9858c","Derivative","UniswapV2Pool","REN-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x8979a3ef9d540480342ac0f56e9d4c88807b1cba","Derivative","UniswapV2Pool","REPv2-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x6d57a53a45343187905aad6ad8ed532d105697c1","Derivative","UniswapV2Pool","RLC-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x43ae24960e5534731fc831386c07755a2dc33d47","Derivative","UniswapV2Pool","SNX-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xf80758ab42c3b07da84053fd88804bcb6baa4b5c","Derivative","UniswapV2Pool","sUSD-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xac317d14738a454ff20b191ba3504aa97173045b","Derivative","UniswapV2Pool","SXP-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xb4d0d9df2738abe81b87b66c80851292492d1404","Derivative","UniswapV2Pool","TUSD-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x88d97d199b9ed37c29d846d00d443de980832a22","Derivative","UniswapV2Pool","UMA-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xd3d2e2692501a5c9ca623199d38826e513033a17","Derivative","UniswapV2Pool","UNI-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x3041cbd36888becc7bbcbc0045e3b1f144466f5f","Derivative","UniswapV2Pool","USDC-USDT",,,
+"Uniswap V2","UNI-V2",18,"0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc","Derivative","UniswapV2Pool","USDC-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852","Derivative","UniswapV2Pool","USDT-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x004375dff511095cc5a197a54140a24efef3a416","Derivative","UniswapV2Pool","WBTC-USDC",,,
+"Uniswap V2","UNI-V2",18,"0xbb2b8038a1640196fbe3e38816f3e67cba72d940","Derivative","UniswapV2Pool","WBTC-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x23bff8ca20aac06efdf23cee3b8ae296a30dfd27","Derivative","UniswapV2Pool","wNXM-WETH",,,
+"Uniswap V2","UNI-V2",18,"0x2fdbadf3c4d5a8666bc06645b8358ab803996e28","Derivative","UniswapV2Pool","YFI-WETH",,,
+"Uniswap V2","UNI-V2",18,"0xc6f348dd3b91a56d117ec0071c1e9b83c0996de4","Derivative","UniswapV2Pool","ZRX-WETH",,,
+"USD Coin","USDC",6,"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48","Primitive",,,"USDC / ETH","0x986b5e1e1755e3c2440e960477f25201b0a8bbd4","0x00d02526ca08488342ab634de3b2d0050ecc7f60"
+"Tether USD","USDT",6,"0xdac17f958d2ee523a2206206994597c13d831ec7","Primitive",,,"USDT / ETH","0xee9f2375b4bdf6387aa8265dd4fb8f16512a1d46","0x1058a82c25f55ab8ab0ce717f3e6e164e80f1a0b"
+"Wrapped BTC","WBTC",8,"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599","Primitive",,,"BTC / ETH","0xdeb288f737066589598e9214e782fa5a8ed689e8","0xbd72da70007e47aaf1bbd84918675392cf6885f7"
+"wrapped-DGLD","wDGLD",8,"0x123151402076fc819b7564510989e475c9cd93ca","Derivative","DGLD",,"XAU / USD","0x214ed9da11d2fbe465a6fc601a91e62ebec1a0d6","0x06a7689149cf04dacfde555d1e1ead7dd7370316"
+"Wrapped Ether","WETH",18,"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2","Primitive",,,"n/a","n/a","n/a"
+"Wrapped NXM","wNXM",18,"0x0d438f3b5175bebc262bf23753c1e53d03432bde","Primitive",,,"WNXM / ETH","0xe5dc0a609ab8bcf15d3f35cfaa1ff40f521173ea","0xc207e3c81e038d2cfddd6d86644ecb4e166605d8"
+"yearn.finance","YFI",18,"0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e","Primitive",,,"YFI / ETH","0x7c5d4f8345e66f68099581db340cd65b078c41f4","0x4a03707a1bfefc2836a69b1a6a6bd752270041a9"
+"0x Protocol Token","ZRX",18,"0xe41d2489571d322189246dafa5ebde1f4699f498","Primitive",,,"ZRX / ETH","0x2da4983a622a8498bb1a21fae9d8f6c664939962","0xe03b49682965a1eb5230d41f96e10896dc563f0d"
+"Uniswap V2",,,"(no liquid pool)",,,"BNB",,,
