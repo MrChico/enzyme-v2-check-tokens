@@ -4,7 +4,7 @@ COINGECKO_API="https://api.coingecko.com/api/v3"
 # IMPORTANT: check that this is the real ENS registry!
 ENS_REGISTRY=0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e
 # IMPORTANT: check that this is what MTC owns!
-FUND_DEPLOYER_CONTRACT="0x9134C9975244b46692Ad9A7Da36DBa8734Ec6DA3"
+FUND_DEPLOYER_CONTRACT="0x7e6d3b1161DF9c9c7527F68d651B297d2Fdb820B"
 # IMPORTANT: check that this is the real uniswap factory
 UNISWAP_V2_FACTORY_ADDRESS=0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f
 # IMPORTANT: check these tokens!
@@ -126,15 +126,21 @@ do
   if [[ "$assetType" == "Primitive" ]]; then
     readarray -t res < <(seth call $PRIMITIVE_PRICE_FEED_CONTRACT "getAggregatorInfoForPrimitive(address)(address,uint8)" $address)
     feed="${res[0],,}"
-    isEth="${res[1]}"
-    pair="$(unwrap_symbol ${symbol,,})-$([[ $isEth == 0 ]] && echo eth || echo usd)"
-    official_feed=$(resolve_ens $pair data eth)
-    if [[ "$feed" != "$official_feed" ]]; then
-      warning "Feed proxy for $symbol does NOT match chainlink ENS!"
-      echo "$pair.data.eth: $official_feed"
+    if [[ \"$(echo "$feed" | tr '[:upper:]' '[:lower:]')\" != $(echo "$chainlinkProxy" | tr '[:upper:]' '[:lower:]') ]]; then
+      warning "Feed proxy for $symbol does NOT match chainlink proxy!"
+      echo "chainlinkProxy: $chainlinkProxy"
       echo "feed: $feed"
     else
-      echo "$pair.data.eth agrees."
+      isEth="${res[1]}"
+      pair="$(unwrap_symbol ${symbol,,})-$([[ $isEth == 0 ]] && echo eth || echo usd)"
+      official_feed=$(resolve_ens $pair data eth)
+      if [[ "$feed" != "$official_feed" ]]; then
+        warning "Feed proxy for $symbol does NOT match chainlink ENS!"
+        echo "$pair.data.eth: $official_feed"
+        echo "feed: $feed"
+      else
+        echo "$pair.data.eth agrees."
+      fi
     fi
   fi
 done < $1
